@@ -1703,6 +1703,7 @@ News,#genre#
 [HD]nhk_bsp4k,https://stream1.freetv.fun/3e521a37f91c5e941edfb16ec2e760cc3ad2e76a2914292353e56bd77fc219fd.m3u8
 [HD]nhk_world,https://stream1.freetv.fun/5926a4f4e95bd8f6493733a71df806b8bc8522a262a099eb114354fa9b3cf95c.m3u8
 [BD]now新闻,https://stream1.freetv.fun/435c471e9b9067599cfd295d1b7b3ad9e07efd67187635228cabb35c791d16c6.m3u8
+[BD]ntv_tr,https://stream1.freetv.fun/f8c2ac9764a494c5b97e1d16623041ffd5d24ed747273811d937ad2e0ac48d15.m3u8
 [VGA]NTV_NEWS_24,https://stream1.freetv.fun/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8
 [VGA]news1,https://stream1.freetv.fun/149ca603e4ad96f0ab823b23ee90cb369fb19bbf4d43ccfc5eaece07615d1b56.m3u8
 [BD]news_12_new_york_(1080p),https://stream1.freetv.fun/abf1d5317e0b18af87f69a16b0407962ada2c26a88b677b6177e78f87583517b.m3u8
@@ -9641,8 +9642,8 @@ Indigenous_Television_(720p),https://np.truestreamz.com/broadcaster/INDIGENOUSmo
 International_Vietnamese_Television_IVTV_Channel_57.16_(720p),https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 Intuitiva_TV_(720p),https://video2.lhdserver.es/cableperu/live.m3u8
 iON_TV_(576p),https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-IRIB1,https://af.ayas.ir/hls2/tv1.m3u8
-IRIB2,https://af.ayas.ir/hls2/tv2.m3u8
+IRIB1_(720p),https://live.aionet.ir/hls/tv1/tv1.m3u8
+IRIB2_(540p),https://live.aionet.ir/hls/tv2/tv2.m3u8
 IRIB3,https://live.aionet.ir/hls/tv3/tv3.m3u8
 IRIB4_(540p),https://live.aionet.ir/hls/tv4/tv4.m3u8
 IRIB5_(540p),https://live.aionet.ir/hls/tv5/tv5.m3u8
@@ -14057,7 +14058,6 @@ GOL_PLAY_(432p),https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:
 Golf_Network_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 grvty_(1080p),https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 Hard_Knocks_(1080p)_[Not_24/7],https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-IMPACT_Wrestling_(1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 Insight_TV_(1080p),https://insighttv-vizio.amagi.tv/playlist.m3u8
 Inter_TV_(720p),https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 J_Sports_1_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
